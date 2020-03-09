@@ -16,6 +16,11 @@ body
   position: relative;
 }
 
+.form-box{
+  padding: 20px;
+  background-color: #eee;
+}
+
 .container_rec{
   width: 70%;
   margin: auto;
